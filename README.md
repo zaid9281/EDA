@@ -3,23 +3,24 @@ This project is an Exploratory Data Analysis (EDA) of the Netflix Titles dataset
 By analyzing this dataset, we can discover useful patterns about genres, countries, ratings, and more.
 
 <h1>Project Working</h1>
-The dataset includes key information like:
 
-Title name
+<ul>The dataset includes key information like:</ul> <br>
 
-Content type (Movie or TV Show)
+  <ol>Title name</ol>
 
-Release year
+<ol>Content type (Movie or TV Show) </ol>
 
-Runtime
+<ol>Release year</ol>
 
-Genre
+<ol>Runtime</ol>
 
-Country of production
+<ol>Genre</ol>
 
-IMDb rating
+<ol>Country of production</ol>
 
-Using this data, we:
+<ol>IMDb rating</ol> <br>
+
+<h1>Using this data, we: </h1>
 
 Checked trends in content releases over the years
 
